@@ -28,7 +28,7 @@ A aplicação foi desenvolvida com **React**, utilizando **HTML** para a estrutu
 
 ## 🔗 Link da Aplicação
 
-👉 [Acessar aplicação online](https://seu-link.vercel.app)
+👉  https://mateus-db.github.io/analisador_de_codigo_IA/
 
 ---
 
